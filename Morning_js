@@ -1,0 +1,10 @@
+var morning = false;
+
+if (morning) {
+ console.log("Good morning Anakin");
+     
+ } else {
+       
+ console.log("Good afternoon Anakin");
+     }
+      

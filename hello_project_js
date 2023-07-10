@@ -1,0 +1,18 @@
+function greet() {
+    function greeting(){
+        return "Good day Anakin";
+}
+var word = greeting();
+console.log(word);
+}
+greet()
+function main(){
+    function welcome();
+    return "Do not open the door";
+
+}
+var word = welcome;
+console.log(word);
+}
+
+main()
